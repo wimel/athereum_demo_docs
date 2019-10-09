@@ -10,7 +10,7 @@ If you want to view the contract itself, go [here](https://gist.github.com/Steph
 
 # Requirements
 
-We will be interacting with the contract using MyEtherWallet. You will need a private key to interact with the demo contract. We suggest using a randomly generated private key. You can obtain such a key from [https://vanity-eth.tk/](https://vanity-eth.tk/) by clicking the `Generate` button at the bottom of the page. After that, click `Private key: Click to reveal` and store your private key for later. If you have your own private key or Ethereum Keyfile we do not suggest you sure for security reasons, but this demonstration will assume you have a private key on-hand.
+We will be interacting with the contract using MyEtherWallet. You will need a private key to interact with the demo contract. We suggest using a randomly generated private key. You can obtain such a key from [https://vanity-eth.tk/](https://vanity-eth.tk/) by clicking the `Generate` button at the bottom of the page. After that, click `Private key: Click to reveal` and store your private key for later. **You should not use your own private key or Ethereum Keyfile for security reasons.**
 
 ![](MEW8-17769535-809d-4af2-8881-f70c36cf2e47.png)
 
@@ -35,7 +35,7 @@ To start, go to [https://www.myetherwallet.com/](https://www.myetherwallet.com/)
 
 ![](MEW6-1490a817-3f84-4218-8eb2-3c71dc9c18eb.png)
 
-- [ ]  Paste your private key into the input box and press "`Access Wallet`".
+- [ ]  Paste your **newly generated** private key into the input box and press "`Access Wallet`".
 
 ![](MEW7-b1f5d26c-9289-4e7f-8c59-f610b46cb8f7.png)
 
@@ -61,7 +61,7 @@ Using the MEW Wallet you created in the **Creating Your MEW Wallet** section, do
 
     ![](MEW13-75a2752f-b08a-4d70-bbfe-610399fabe28.png)
 
-- [ ]  Fill in the fields as in the following picture, with `Port 443`, `ChainID 43110`, and all three additional URL fields pointing to "[`https://ava.network/rpc/evm`](https://ava.network/rpc/evm)" and click "`Save`".
+- [ ]  Fill in the fields as in the following picture, with `Port 443`, `ChainID 43110`, `URL https://ava.network/ext/evm/rpc`, `ExplorerTx http://ava.network:21005/tx/[[txHash]]`, and `ExplorerAddress http://ava.network:21005/address/[[address]]`. Then click "`Save`".
 
 ![](MEW13-2-1d3ece70-6d44-4c89-80b6-1214ae9402c7.png)
 
