@@ -61,7 +61,7 @@ Using the MEW Wallet you created in the **Creating Your MEW Wallet** section, do
 
     ![](MEW13-75a2752f-b08a-4d70-bbfe-610399fabe28.png)
 
-- [ ]  Fill in the fields as in the following picture, with `Port 443`, `ChainID 43110`, `URL https://ava.network/ext/evm/rpc`, `ExplorerTx http://ava.network:21005/tx/[[txHash]]`, and `ExplorerAddress http://ava.network:21005/address/[[address]]`. Then click "`Save`".
+- [ ]  Fill in the fields as in the following picture, with `Port 443`, `ChainID 43110`, `URL https://ava.network:21015/ext/evm/rpc`, `ExplorerTx http://ava.network:21005/tx/[[txHash]]`, and `ExplorerAddress http://ava.network:21005/address/[[address]]`. Then click "`Save`".
 
 ![](MEW13-2-1d3ece70-6d44-4c89-80b6-1214ae9402c7.png)
 
@@ -81,7 +81,7 @@ We're ready to begin interacting with the smart contract through our Wallet.
 
 ![](MEW16-5b4af96e-aad2-4224-ad77-3bca634a1561.png)
 
-- [ ]  Fill out the "`Contract Address`" field to read "`0x045Fa33657bc06DB351915C9C1c0f37348F7Ae26`" and the "`ABI/JSON Interface`" to have the following value:
+- [ ]  Fill out the "`Contract Address`" field to read "`0x3A846ECcBd5d0c3395192b38E48958fB15373CeA`" and the "`ABI/JSON Interface`" to have the following value:
 
 [https://gist.github.com/collincusce/d0fe8cea9223bf3ab67a1914173a1e34](https://gist.github.com/collincusce/d0fe8cea9223bf3ab67a1914173a1e34)
 
