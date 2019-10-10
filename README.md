@@ -61,7 +61,7 @@ Using the MEW Wallet you created in the **Creating Your MEW Wallet** section, do
 
     ![](MEW13-75a2752f-b08a-4d70-bbfe-610399fabe28.png)
 
-- [ ]  Fill in the fields as in the following picture, with `Port 443`, `ChainID 43110`, `URL https://ava.network:21015/ext/evm/rpc`, `ExplorerTx http://ava.network:21005/tx/[[txHash]]`, and `ExplorerAddress http://ava.network:21005/address/[[address]]`. Then click "`Save`".
+- [ ]  Fill in the fields as in the following picture, with `Port 443`, `ChainID 43110`, `URL https://ava.network:21015/ext/evm/rpc`, `ExplorerTx http://athereum.ava.network/tx/[[txHash]]`, and `ExplorerAddress http://athereum.ava.network/address/[[address]]`. Then click "`Save`".
 
 ![](MEW13-2-1d3ece70-6d44-4c89-80b6-1214ae9402c7.png)
 
