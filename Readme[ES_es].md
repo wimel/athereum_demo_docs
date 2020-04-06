@@ -143,7 +143,7 @@ seleccionar la función. Ese número debería aumentar estrictamente a medida qu
    determinado tiempo de bloques, tendrá que ser ajustado para esta nueva velocidad. Además, AVA no requiere confirmaciones 
    como parte de su protocolo. Si su sistema espera confirmaciones, ya no necesita hacerlo, ya que esta versión de Ethereum 
    no utiliza el Consenso de la Cadena Más Larga. Por último, se trata de una red de prueba que utiliza el cliente AVA Alpha, 
-   que aún no se ha hecho pública. Conectar nodos geth no modificados no producirá el comportamiento esperado. No hay 
+   el cual ya se ha hecho público. Conectar nodos geth no modificados no producirá el comportamiento esperado. No hay 
    garantía de disponibilidad. Este sistema aún no se ha endurecido por completo. Si ves algo, dilo enviando un 
    correo electrónico a contact@avalabs.org
 
